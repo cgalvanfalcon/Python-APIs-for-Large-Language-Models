@@ -485,3 +485,4 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/python,r,stata,jupyternotebooks,visualstudiocode,windows,macos,pycharm,sublimetext
+lessons/API_KEY.txt
